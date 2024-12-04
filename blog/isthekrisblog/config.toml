@@ -1,0 +1,4 @@
+baseURL = 'https://isthekris.github.io/'
+languageCode = 'en-us'
+title = 'IsTheKris blog'
+theme = 'ezhil'
