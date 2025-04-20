@@ -5,4 +5,4 @@ date: 2025-04-20
 categories: [blog]
 ---
 
-Some people may find 'groupby()' and 'agg()' a bit confusing as the sytax may look weird especially when chaining 'groupby().agg()"
+Some people may find `groupby()`  and `agg()` a bit confusing as the sytax may look weird especially when chaining `groupby().agg()`
