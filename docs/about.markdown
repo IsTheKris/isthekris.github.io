@@ -19,6 +19,9 @@ permalink: /about/
     </td>
   </tr>
 </table>
+<div style="color: cvrulecolor">
+<hr />
+</div>
 
 <h4>EDUCATION</h4>
 
@@ -42,6 +45,9 @@ and Technology</span></span></p>
 <ul>
 <li><p>One of the best engineering colleges in Kerala</p></li>
 </ul>
+<div style="color: cvrulecolor">
+<hr />
+</div>
 
 <h4>CERTIFICATIONS</h4>
 
@@ -69,6 +75,9 @@ Certification</span></span></p>
 <ul>
 <li><p>Offered by University of Michigan on Coursera</p></li>
 </ul>
+<div style="color: cvrulecolor">
+<hr />
+</div>
 
 <h4> WORK EXPERIENCE </h4>
 
@@ -100,6 +109,9 @@ using HTML, CSS, BootStrap, Wordpress etc.</p></li>
 providing one-on-one guid- ance and support to help them achieve
 academic success</p></li>
 </ul>
+<div style="color: cvrulecolor">
+<hr />
+</div>
 
 <h4> SKILLS </h4>
 
@@ -107,7 +119,7 @@ academic success</p></li>
 <hr />
 </div>
 <p><span><span
-style="color: cvheadingcolor">PROGRAMMING</span></span></p>
+style="color: cvheadingcolor">Programming</span></span></p>
 <p>C, C++</p>
 <p>Python</p>
 <ul>
@@ -140,6 +152,9 @@ style="color: cvheadingcolor">Frameworks</span></span></p>
 Troubleshooting, Backup and Recovery, Virtualization, nginx, SELinux,
 AppArmor etc.</p></li>
 </ul>
+<div style="color: cvrulecolor">
+<hr />
+</div>
 
 <h4> ADDITIONAL INFORMATION</h4>
 <div style="color: cvrulecolor">
