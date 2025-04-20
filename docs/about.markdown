@@ -11,9 +11,11 @@ permalink: /about/
     </td>
     <td>
       <h3>Krishnakumar K S</h3>
-      <p>Location: Kochi, India</p>
-      <p>Phone: +91-XXXXXXXXXX</p>
-      <p>Email: yourname [at] domain [dot] com</p>
+      <p>Location: Kochi, IN</p>
+      <p>Phone: +91-9495612350</p>
+      <p>Email: kumrx54 [at] gmail [dot] com</p>
+      <p>LinkedIn : </p>
+      <p>Github : isthekris </p>
     </td>
   </tr>
 </table>
