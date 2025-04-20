@@ -20,7 +20,7 @@ permalink: /about/
   </tr>
 </table>
 
-<h2>EDUCATION</h2>
+<h3>EDUCATION</h3>
 
 <div style="color: cvrulecolor">
 <hr />
@@ -43,7 +43,7 @@ and Technology</span></span></p>
 <li><p>One of the best engineering colleges in Kerala</p></li>
 </ul>
 
-<h2>CERTIFICATIONS</h2>
+<h3>CERTIFICATIONS</h3>
 
 <div style="color: cvrulecolor">
 <hr />
@@ -70,7 +70,7 @@ Certification</span></span></p>
 <li><p>Offered by University of Michigan on Coursera</p></li>
 </ul>
 
-<h2> WORK EXPERIENCE </h2>
+<h3> WORK EXPERIENCE </h3>
 
 <div style="color: cvrulecolor">
 <hr />
@@ -101,7 +101,7 @@ providing one-on-one guid- ance and support to help them achieve
 academic success</p></li>
 </ul>
 
-<h2> SKILLS </h2>
+<h3> SKILLS </h3>
 
 <div style="color: cvrulecolor">
 <hr />
@@ -141,7 +141,7 @@ Troubleshooting, Backup and Recovery, Virtualization, nginx, SELinux,
 AppArmor etc.</p></li>
 </ul>
 
-<h2> ADDITIONAL INFORMATION</h2>
+<h3> ADDITIONAL INFORMATION</h3>
 <div style="color: cvrulecolor">
 <hr />
 </div>
