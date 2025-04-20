@@ -8,7 +8,7 @@ layout: home
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Pinned Posts</h1>
 
   {% assign pinned_post = site.posts | where: "pinned", true | first %}
   {% assign other_posts = site.posts | where_exp: "post", "post.pinned != true" %}
