@@ -4,22 +4,26 @@
 
 layout: home
 ---
+
 <div class="home">
 
-  <!-- Show pinned post(s) first -->
-  {% assign pinned_posts = site.posts | where: "pinned", true %}
-  {% for post in pinned_posts %}
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
-    <hr />
-  {% endfor %}
+  <h1 class="page-heading">Posts</h1>
 
-  <!-- Then show other (unpinned) posts -->
-  {% assign unpinned_posts = site.posts | where_exp: "post", "post.pinned != true" %}
-  {% for post in unpinned_posts %}
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
-    <hr />
-  {% endfor %}
+  {% assign pinned = site.posts | where: "pinned", true %}
+  {% assign unpinned = site.posts | where_exp: "post", "post.pinned != true" %}
 
+  {% assign sorted_posts = pinned | concat: unpinned %}
+
+  <ul class="post-list">
+    {% for post in sorted_posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>
