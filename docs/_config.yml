@@ -1,10 +1,10 @@
-title: isthekris
+title: IsTheBlog
 email: kumrx54@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog on data science written as part of self-learning journey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  isthekris
+github_username: IsTheKris
 
 # Build settings
 theme: minima
