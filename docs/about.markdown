@@ -15,17 +15,18 @@ permalink: /about/
       <p>Phone: +91-9495612350</p>
       <p>Email: kumrx54 [at] gmail [dot] com</p>
       <p>LinkedIn : </p>
-      <p>Github : isthekris </p>
+      <p>Github : IsTheKris </p>
     </td>
   </tr>
 </table>
 
+<h2>EDUCATION</h2>
 
 <div style="color: cvrulecolor">
 <hr />
 </div>
-<p><span><span style="color: cvdurationcolor">2022 –
-2020</span></span></p>
+<p><span><span style="color: cvdurationcolor">2020 –
+2022</span></span></p>
 <p><span><span style="color: cvtitlecolor">University of
 Hyderabad</span></span></p>
 <p><strong>Master of Technology in Computer Science</strong></p>
@@ -41,6 +42,9 @@ and Technology</span></span></p>
 <ul>
 <li><p>One of the best engineering colleges in Kerala</p></li>
 </ul>
+
+<h2>CERTIFICATIONS</h2>
+
 <div style="color: cvrulecolor">
 <hr />
 </div>
@@ -65,6 +69,9 @@ Certification</span></span></p>
 <ul>
 <li><p>Offered by University of Michigan on Coursera</p></li>
 </ul>
+
+<h2> WORK EXPERIENCE </h2>
+
 <div style="color: cvrulecolor">
 <hr />
 </div>
@@ -93,6 +100,9 @@ using HTML, CSS, BootStrap, Wordpress etc.</p></li>
 providing one-on-one guid- ance and support to help them achieve
 academic success</p></li>
 </ul>
+
+<h2> SKILLS </h2>
+
 <div style="color: cvrulecolor">
 <hr />
 </div>
@@ -130,9 +140,12 @@ style="color: cvheadingcolor">Frameworks</span></span></p>
 Troubleshooting, Backup and Recovery, Virtualization, nginx, SELinux,
 AppArmor etc.</p></li>
 </ul>
+
+<h2> ADDITIONAL INFORMATION</h2>
 <div style="color: cvrulecolor">
 <hr />
 </div>
+
 <p><span><span style="color: cvheadingcolor">Languages</span></span></p>
 <ul>
 <li><p>Malayalam</p></li>
