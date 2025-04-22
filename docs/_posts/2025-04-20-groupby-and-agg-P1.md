@@ -16,21 +16,6 @@ Let's discuss this concept in more detail using an example. I’ve created a dat
 Go through the Jupyter Notebook linked below for a step by step explanation.
 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</style>
-<!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=abf3ad6a-45b6-4da3-a001-73c69d169548">
 <div class="jp-Cell-inputWrapper" tabindex="0">
@@ -742,11 +727,6 @@ Let's find out total expenditure in each category along with mean expenditure.</
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 </main>
 
