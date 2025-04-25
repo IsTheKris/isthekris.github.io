@@ -29,7 +29,7 @@ I enjoy learning by doing it, whether it's running self hosted services on Raspb
 
 Outside of tech, I love long walks, home cooked food, and reading about science, history, and philosophy. I believe in continuous learning and doing meaningful work that makes life simpler and more open.
 
-<p>`<a href="/resume.pdf" download>Download My Resume</a>`</p>
+<p>`Download My <a href="/resume.pdf" download>Resume</a>`</p>
 
 
 <figure class="quote">
