@@ -29,10 +29,7 @@ I enjoy learning by doing it, whether it's running self hosted services on Raspb
 
 Outside of tech, I love long walks, home cooked food, and reading about science, history, and philosophy. I believe in continuous learning and doing meaningful work that makes life simpler and more open.
 
-The reason I started the blog is to help myself learn better as writing helps understand things more deeply and remember them longer. I also hope that others who are learning data science may find these posts useful:)
-
 <p><a href="/resume.pdf" download>Download My Resume</a></p>
-
 
 <figure class="quote">
   <blockquote>
